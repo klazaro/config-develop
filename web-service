@@ -1,0 +1,5 @@
+com.tblocks.urlOauth=https://com-tblocks-oauth.cfapps.io/
+com.tblocks.grantType=password
+com.tblocks.scope=sso
+com.tblocks.clientSecret=secret
+com.tblocks.clientId=html5
